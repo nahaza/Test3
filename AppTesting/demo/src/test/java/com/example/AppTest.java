@@ -21,6 +21,6 @@ public class AppTest
 
     @Test
     public void itisTrueTrue(){
-        assertEquals("This is true", 2, 3, 0);
+        assertEquals("This is true", 2, 2, 0);
     }
 }
